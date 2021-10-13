@@ -10,8 +10,21 @@
 ### Blockchain
  - [Solidity Voting Board with elections and guardian based social recovery](https://github.com/AllanPedin/Simple-Solidity-Voting-Board)
  - [Social Key Recovery using sharding](https://github.com/AllanPedin/Social-Key-Recovery-Using-Sharding)
+
+### C++
+ - [Crypto](https://github.com/AllanPedin/crypto)
+ - [Make File](https://github.com/AllanPedin/327_proj1_make)
+ - [Vectors](https://github.com/AllanPedin/Library_Vector_starter)
+ - [Arrays](https://github.com/AllanPedin/Library_Vector_starter)
+ - [Strings](https://github.com/AllanPedin/stringdatabase)
+
+### Android
+ - [Multi Threading](https://github.com/AllanPedin/android_project_3_multithread)
+ - [Image Downloads](https://github.com/AllanPedin/android_programming-p4)
+
 ### MISC
  - [Huffman Encoding](https://github.com/AllanPedin/Huffman-Encoding-Algorithm)
+ - [Binary Search Tree](https://github.com/AllanPedin/CPSC270ASG2B)
  - [Instagram Comment Bot](https://github.com/AllanPedin/instagramCommentBot)
  - [Minecraft Mod Research](https://github.com/AllanPedin/minecraftResearch)
 
