@@ -1,4 +1,8 @@
-### Hi there 👋
+### Allan B. Pedin IV
+## Hello welcome to my github profile
+## Projects:
+# Machine Learning
+
 
 <!--
 **AllanPedin/AllanPedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
