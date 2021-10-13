@@ -1,4 +1,5 @@
 # Allan B. Pedin IV
+![Profile Photo](https://github.com/AllanPedin/AllanPedin/blob/main/ProfilePhoto.jpeg)
 ## Hello welcome to my github profile
 ## Projects:
 ### Machine Learning
