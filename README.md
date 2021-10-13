@@ -2,6 +2,8 @@
 ## Hello welcome to my github profile
 ## Projects:
 ### Machine Learning
+ - [K-Nearest Neighbors](https://github.com/AllanPedin/Machine-Learning-Assignment-1-K-Nearest-Neighbors)
+ - [Regression](https://github.com/AllanPedin/Machine-Learning-Assignment-2-Regression)
 
 
 <!--
