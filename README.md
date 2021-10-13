@@ -7,6 +7,8 @@ Graduated from Christopher Newport University with a Bachelors degree in Compute
 
 Currently working on a Masters degree in Computer Science, with a research focus on applications of decentralized computation networks like Ethereum
 
+Contact me on [LinkedIn](https://www.linkedin.com/in/allan-b-pedin-iv-0705b1166/)
+
 ## Projects:
 ### Machine Learning
  - [K-Nearest Neighbors](https://github.com/AllanPedin/Machine-Learning-Assignment-1-K-Nearest-Neighbors)
