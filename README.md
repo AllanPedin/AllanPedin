@@ -4,6 +4,8 @@
 ### Machine Learning
  - [K-Nearest Neighbors](https://github.com/AllanPedin/Machine-Learning-Assignment-1-K-Nearest-Neighbors)
  - [Regression](https://github.com/AllanPedin/Machine-Learning-Assignment-2-Regression)
+ - [Scikit-Learn / Keras](https://github.com/AllanPedin/Machine-Learning-Assignment-3-Skikit-learn-and-Keras)
+ - [Basketball Game Outcome Predictor](https://github.com/AllanPedin/Allan-AdamCapstone)
 
 
 <!--
