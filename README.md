@@ -1,7 +1,7 @@
-### Allan B. Pedin IV
+# Allan B. Pedin IV
 ## Hello welcome to my github profile
 ## Projects:
-# Machine Learning
+### Machine Learning
 
 
 <!--
