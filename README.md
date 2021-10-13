@@ -7,6 +7,13 @@
  - [Scikit-Learn / Keras](https://github.com/AllanPedin/Machine-Learning-Assignment-3-Skikit-learn-and-Keras)
  - [Basketball Game Outcome Predictor](https://github.com/AllanPedin/Allan-AdamCapstone)
 
+### Blockchain
+ - [Solidity Voting Board with elections and guardian based social recovery](https://github.com/AllanPedin/Simple-Solidity-Voting-Board)
+ - [Social Key Recovery using sharding](https://github.com/AllanPedin/Social-Key-Recovery-Using-Sharding)
+### MISC
+ - [Huffman Encoding](https://github.com/AllanPedin/Huffman-Encoding-Algorithm)
+ - [Instagram Comment Bot](https://github.com/AllanPedin/instagramCommentBot)
+ - [Minecraft Mod Research](https://github.com/AllanPedin/minecraftResearch)
 
 <!--
 **AllanPedin/AllanPedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
